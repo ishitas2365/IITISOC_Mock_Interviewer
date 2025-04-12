@@ -1,1 +1,2 @@
-# IITISOC_Mock_Interviewer
+
+# AI Mock Interviewer
